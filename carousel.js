@@ -3,7 +3,7 @@ function swipwerBanner() {
         loop: true,
         effect: 'coverflow',
         autoplay: {
-            delay: 3000,
+            delay: 10000,
         },
 
         // pagination: {
